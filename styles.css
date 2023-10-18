@@ -1,0 +1,55 @@
+Body{
+    background-color: #5F5449;
+    color: #EBFCFB;
+
+}
+nav{
+    background-color: #9B6A6C;
+    text-align: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+li{
+    display: inline;
+    padding: 15px;
+}
+
+#poster{
+    height: 350px;
+    padding: 10px;
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+#rate{
+    text-align: center;
+    font-size: 15px;
+}
+#sleepless{
+    font-size: px;
+    border-style: double;
+    
+}
+
+#watchhere{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    display: inline;
+}
+
+#sling{
+    height: 50px;
+}
+
+#hulu{
+    height: 60px;
+}
+
+#prime{
+    height: 50px;
+}
+
